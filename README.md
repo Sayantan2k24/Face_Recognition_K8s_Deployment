@@ -27,7 +27,7 @@ Step 3 - Face recongnition and launching k8s Deployment
 we are using face recognition and launch the deployment once the face is recognized
 
 
-###########################
+
 For getting the live status of the deployment, We have created a simple python script
 
 "live_status_k8s_deploy.py"
