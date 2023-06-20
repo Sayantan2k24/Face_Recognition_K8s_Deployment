@@ -4,7 +4,6 @@ Hey guys!!
 
 We are going to use face recognition app and launch a deployment in my local kubernetes cluster !!
 
-
 Step 1 - Create Dataset
 --------------------------------------------------------
 
@@ -17,13 +16,12 @@ That is
 E:\ML_Projects\DataSet\ 
 
 
-###########################
 Step 2 - Train the Model
 --------------------------------------------------------
 
 Using the data set we will train our model
 
-###########################
+
 Step 3 - Face recongnition and launching k8s Deployment
 --------------------------------------------------------
 we are using face recognition and launch the deployment once the face is recognized
